@@ -38,12 +38,12 @@
 //     document.write(`${terceiroiroNumero} é o maior número`);
 // }
 
-// const numero = prompt('Digite um numero:')
-// if(numero %2 == 0){
-// document.write(`${ numero} é par`);
-// } else {
-//     document.write(`${numero} é impar`);
-// }
+const numero = prompt('Digite um numero:')
+if(numero %2 == 0){
+document.write(`${ numero} é par`);
+} else {
+    document.write(`${numero} é impar`);
+}
 
 // const  preco = prompt(`Digite o Preco do produto`);
 // const  quantidade = prompt(`Digite a quantidade de produtos vendidos`);
